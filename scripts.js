@@ -1,6 +1,55 @@
 // Poemas de exemplo (adicione mais conforme desejar)
 const poemas = [
   {
+    titulo: "A Gata e o Ceifador",
+    autor: "",
+    texto: [
+      'No meio da rua, em festa e neon,',
+      'passa a cidade com brilho e som.',
+      'Pessoas dançam, todas coloridas,',
+      'mas uma gata chama as vidas.',
+      '',
+      'Preta como a noite sem luar,',
+      'anda elegante, sem se apressar.',
+      'Olhos de brasa, passo certeiro,',
+      'misteriosa no seu roteiro.',
+      '',
+      'Num canto escuro, parado e calado,',
+      'espera por ela o ceifador mascarado.',
+      'Com capa longa e foice na mão,',
+      'mas sente no peito... um coração.',
+      '',
+      'Toda meia-noite, no mesmo lugar,',
+      'ele espera a gata passar.',
+      'Não quer levá-la, nem assustar,',
+      'só quer vê-la, e admirar.',
+      '',
+      'Ela não corre, ela não teme,',
+      'sabe que o tempo, às vezes, treme.',
+      'E mesmo a Morte, feita de dor,',
+      'pode sentir um pouco de amor.',
+      '',
+      'No mundo vivo, cheio de cor,',
+      'ela é sombra, charme e furor.',
+      'E ele, sombrio, sente calor',
+      'quando a vê — é puro ardor.',
+      '',
+      'E assim, na dança da escuridão,',
+      'dois mundos batem o mesmo coração.',
+      'Entre neon, passos e luar,',
+      'a gata e o ceifador vão se encontrar.'
+    ],
+    tema: {
+      fundo: "#f8f5e9",
+      texto: "#3e2c1c",
+      destaque: "#bfa77a",
+      borda: "#e2d3b3",
+      titulo: "#7c5e3c",
+      textura: "assets/textura1.png"
+    },
+    imagem: "assets/lua.png"
+  },
+  {
     titulo: "ela é tão má com eu",
     autor: "",
     texto: [
